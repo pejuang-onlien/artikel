@@ -2,6 +2,23 @@
 published: false
 ---
 ## A New Post
+
+---
+date: 2021-01-19 12:26:40
+layout: post
+title: Pandangan kucing dalam islam
+subtitle: Pandangan kucing dalam islam.
+description: Pandangan kucing dalam islam.
+image: https://1.bp.blogspot.com/-Sa9ArdgaUK8/X_APU1Qm_bI/AAAAAAAAOMA/MLROrBEk7vsxlFrLfgL97ryVs-A9LKcFQCLcBGAsYHQ/w320-h195/kucing.jpg
+optimized_image: https://1.bp.blogspot.com/-Sa9ArdgaUK8/X_APU1Qm_bI/AAAAAAAAOMA/MLROrBEk7vsxlFrLfgL97ryVs-A9LKcFQCLcBGAsYHQ/w320-h195/kucing.jpg
+category: Cat Lover
+tags:
+  - kucing
+  - berita onlien
+author: pejuangonlien
+paginate: true
+--- 
+
 Kucing-kucing ini dinilai mengganggu tamu kampus. Dalam sebuah penelitian yang dilakukan oleh Pete Marra selaku kepala Smithsonian Migratory Bird Center, kucing juga dianggap bisa merusak ekosistem karena membuat spesies burung menjadi punah
 
 Padahal kucing ialah hewan yang menyenangkan dan memiliki wajah lucu. Tak jarang kucing juga memiliki sifat yang manja. Sejak zaman Rasulullah SAW, kucing disebut-sebut sebagai hewan kesayangan Nabi Muhammad.
