@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: pejuang-onlien/artikel
-  branch: master
+  branch: main
 publish_mode: editorial_workflow
 media_folder: "assets/img/uploads"
 collections:
