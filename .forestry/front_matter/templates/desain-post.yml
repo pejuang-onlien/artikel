@@ -1,4 +1,10 @@
 ---
 label: desain post
 hide_body: true
-fields: []
+fields:
+- name: coba_label
+  type: tag_list
+  default: []
+  label: Coba Label
+  description: ini deskripsi label
+  hidden: false
