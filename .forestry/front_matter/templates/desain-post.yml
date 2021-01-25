@@ -8,3 +8,5 @@ fields:
   label: Coba Label
   description: ini deskripsi label
   hidden: false
+pages:
+- _posts/coba membuat post.md
